@@ -10,6 +10,6 @@
   </ul>
 <br/>
   
-<img align="left" alt="Connor Dillons Github Stats" src="https://github-readme-stats.vercel.app/api?username=connordillondev&show_cons=true&hide_border=true&theme=dracula">
+<!--<img align="left" alt="Connor Dillons Github Stats" src="https://github-readme-stats.vercel.app/api?username=connordillondev&show_cons=true&hide_border=true&theme=dracula">
 <!--
 **ConnorDillonDev/ConnorDillonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
