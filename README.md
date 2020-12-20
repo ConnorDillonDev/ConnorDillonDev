@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">A passionate developer from Scotland.</h3>
 
-<p align="left"> <a href="https://twitter.com/connordillon96" target="blank"><img src="https://img.shields.io/twitter/follow/connordillon96?logo=twitter&style=for-the-badge" alt="connordillon96" /></a> </p>
-
 - 🔭 I’m currently working on [HappyCamper](N/A)
 
 - 💬 Ask me about **Python, HTML, Node, Java**
@@ -10,6 +8,8 @@
 - 🤝 I’m looking for help with **React**
 
 - 🌱 I’m currently learning **React**
+
+- :business_suit_levitating: Connect with me on LinkedIn [https://www.linkedin.com/in/connord96/](https://www.linkedin.com/in/connord96/)
 
 - 📝 I not so regularly write articles on [https://blog.connordillon.me/](https://blog.connordillon.me/)
 
