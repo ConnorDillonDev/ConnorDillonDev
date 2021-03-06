@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Python, HTML, Node, Java**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **c#**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **c#**
 
 - :business_suit_levitating: Connect with me on LinkedIn [https://www.linkedin.com/in/connord96/](https://www.linkedin.com/in/connord96/)
 
