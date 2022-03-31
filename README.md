@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">A passionate developer from Scotland.</h3>
 
-- 🔭 I’m currently working on [HappyCamper](https://github.com/ConnorDillonDev/Happy-Camper)
+- 🔭 I’m currently working on Redacted
 
 - 💬 Ask me about **Python, HTML, Node, Java**
 
