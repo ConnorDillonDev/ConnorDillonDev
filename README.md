@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">A passionate developer from Scotland.</h3>
 
-- 🔭 I’m currently working on Redacted
+- 🔭 I’m currently working on a personal project
 
-- 💬 Ask me about **Python, HTML, Node, Java**
+- 💬 Ask me about **Python, HTML, C#,**
 
-- 🤝 I’m looking for help with **c#**
+- 🤝 I’m looking for help with **Python**
 
-- 🌱 I’m currently learning **c#**
+- 🌱 I’m currently learning **Python**
 
 - :business_suit_levitating: Connect with me on LinkedIn [https://www.linkedin.com/in/connord96/](https://www.linkedin.com/in/connord96/)
-
-- 📝 I not so regularly write articles on [https://blog.connordillon.me/](https://blog.connordillon.me/)
 
 - 📄 Know about my experiences [https://connordillon.me/items/ConnorDillon-Resume.pdf](https://connordillon.me/items/ConnorDillon-Resume.pdf)
 
 - 📫 How to reach me **connordillon96@gmail.com**
-
-- 👨‍💻 Check out my porfolio available at **https://connordillon.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
