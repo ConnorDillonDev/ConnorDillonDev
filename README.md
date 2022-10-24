@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project
 
-- 💬 Ask me about **Python, HTML, C#,**
+- 💬 Ask me about **Python, HTML, C#, JScript**
 
 - 🤝 I’m looking for help with **Python**
 
