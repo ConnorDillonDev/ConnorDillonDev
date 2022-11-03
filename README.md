@@ -11,10 +11,6 @@
 
 - :business_suit_levitating: Connect with me on LinkedIn [https://www.linkedin.com/in/connord96/](https://www.linkedin.com/in/connord96/)
 
-- 📄 Know about my experiences [https://connordillon.me/items/ConnorDillon-Resume.pdf](https://connordillon.me/items/ConnorDillon-Resume.pdf)
-
-- 📫 How to reach me **connordillon96@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/connordillon96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="connordillon96" height="30" width="40" /></a>
